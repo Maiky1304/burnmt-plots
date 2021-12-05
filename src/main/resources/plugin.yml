@@ -1,0 +1,5 @@
+name: BurnMT-Plots
+version: '${project.version}'
+main: dev.maiky.burnmtplots.Main
+authors: [ Maiky1304 ]
+depend: ["helper", "helper-sql"]
